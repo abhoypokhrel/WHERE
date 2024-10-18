@@ -1,0 +1,174 @@
+body{
+    overflow-x: hidden;
+}
+
+nav {
+    padding-top:2px ;
+    background-color: bisque;
+    padding-bottom: 2px;
+    margin-top:-10px;
+    margin-right: -10px;
+    margin-left: -10px;
+}
+
+
+ .abhi2 {
+    border: 2px solid black;
+    margin-top: -300px;
+    margin-left: 455px;
+    margin-right: 455px;
+    background-color: black;
+    color: white;
+     
+
+}
+.abhi3 {
+
+    margin-top: 400px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.one {
+    font-style: italic;
+}
+
+.abhi4 {
+    margin-top: 155px;
+}
+
+.abhi5 {
+    margin-top: -425px;
+    margin-left: 600px;
+    font-size: 20px;
+}
+
+.abhi6 {
+    margin-top: 255px;
+}
+.abhi7 {
+    margin-top: 35px;
+}
+.abhi8 {
+    padding: 2px;
+    background-color: grey;
+    font-size: 15px;
+}
+
+.abhi9 {
+    margin-top: 15px;
+}
+
+.abhi10 {
+
+    padding: 2px;
+    background-color: grey;
+    font-size: 15px;
+    margin-right: 55px;
+}
+
+.abhi12 {
+
+    padding: 2px;
+    background-color: grey;
+    font-size: 15px;
+    margin-right: 105px;
+
+}
+
+.abhi13 {
+    margin-top: 155px;
+    padding: 15px;
+    background-color: grey;
+    color: white;
+    margin-left: -95px;
+    margin-right: -95px;
+    font-size: 12px;
+
+}
+.abhi14 {
+    margin-left: -95px;
+    margin-right: -95px;
+}
+.abhi15 {
+    margin-top: -150px;
+    color: white;
+}
+
+.abhi16 {
+    margin-top: 200px;
+}
+.three {
+    font-style: italic;
+}
+
+.abhi17 {
+    display: flex;
+    margin-top: 55px;
+    justify-content: space-evenly;
+}
+
+.abhi18 {
+    display: flex;
+    margin-top: 55px;
+    justify-content: space-evenly;
+}
+
+.abhi19 {
+    margin-top: 75px;
+    margin-left: 500px;
+    font-size: 35px;
+    
+}
+.abhi20 {
+    margin-top: 55px;
+    margin-left: -95px;
+    margin-right: -95px;
+}
+
+.abhi21 {
+    margin-top: -200px;
+    color: white;
+}
+
+.abhi22 {
+    margin-top: 255px;
+    color: grey;
+}
+
+.four {
+    font-style: italic;
+    color: grey;
+}
+
+.abhi23 {
+    margin-top: 55px;
+    margin-left: 95px;
+}
+.abhi24 {
+    margin-top: -150px;
+}
+
+.abhi26 {
+    margin-left: 777px;
+    margin-top: -75px;
+}
+
+.abhi27 {
+    margin-left: 666px;
+}
+
+.abhi28 {
+    margin-top: 25px;
+    margin-left: 777px;
+}
+
+.abhi29 {
+    margin-top: 55px;
+    padding: 50px;
+    background-color: black;
+    color: white;
+    margin-left: -95px;
+    margin-right: -95px;
+}
+
